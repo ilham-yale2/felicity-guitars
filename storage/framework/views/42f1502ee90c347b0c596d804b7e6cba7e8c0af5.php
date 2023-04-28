@@ -1,0 +1,1 @@
+<?php /**PATH /home/intives1/felicityguitars.intivestudio.com/resources/views/layout/meta.blade.php ENDPATH**/ ?>
